@@ -1,0 +1,7 @@
+1. MongoDB is Document oreanted data bass..
+2. MongoDB use mozilla's Spider monkey JavaScript Engine.
+=======******======......=======>>>>>>
+3. mongod -> comend start mongo server
+4. mongosh -> comend start mongo shell
+5. db.version() -> show dataBase version..
+6. db.stats() -> show the all informetison that callocations all detiels..
