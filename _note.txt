@@ -1,7 +1,18 @@
-1. MongoDB is Document oreanted data bass..
+1. MongoDB is Document oriented data bass..
 2. MongoDB use mozilla's Spider monkey JavaScript Engine.
 =======******======......=======>>>>>>
-3. mongod -> comend start mongo server
-4. mongosh -> comend start mongo shell
+3. mongod -> commend start mongo server
+
+4. mongosh -> commend start mongo shell
+
 5. db.version() -> show dataBase version..
-6. db.stats() -> show the all informetison that callocations all detiels..
+
+6. db.stats() -> show the all information that collocations all details..
+
+7. show db -> is show all database.
+
+8. use "dataBase name" -> if dataBase is already exist then switch this database or not exist then create new dataBase. First time when create new dataBast it's actually not created because if database is mete it's not show . First create a collocations in side this dataBase then it's shows.
+
+9. db.createCollection("collection name") -> create a collections.
+
+10. show collections -> show all collection in the database.
